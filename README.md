@@ -1,2 +1,2 @@
 # Todo-App-with-Flutter
-its basic todo app logic with flutter
+Todo-App, one of the applications I made in my udemy course.
